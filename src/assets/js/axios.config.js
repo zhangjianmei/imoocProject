@@ -1,4 +1,4 @@
-// axios 配置 测试
+// axios 配置
 import Vue from 'vue';
 import axios from  'axios';
 
